@@ -131,7 +131,21 @@ This project provided academic exposure to predictive analytics, sales forecasti
 
 This was a collaborative academic project. The original application was developed and uploaded to GitHub by another group member.
 
-**My contribution:** [Describe your actual contribution to the group project here.]
+**My contribution:** 
+
+Project Documentation: Assisted in preparing and organizing project documentation and maintaining clear records of the project activities.
+
+Business Analysis: Contributed to understanding the business problem and identifying how sales forecasting can support retail business decision-making.
+
+Research and Information Gathering: Explored relevant information about sales forecasting, time-series analysis, and the application of machine learning in business.
+
+Data Interpretation: Supported the understanding and interpretation of sales data and forecasting results from a business perspective.
+
+Report Preparation: Contributed to organizing project information and preparing academic reports and presentation materials.
+
+Team Collaboration: Collaborated with team members, shared ideas, and participated in project discussions to achieve the project objectives.
+
+This project enhanced my understanding of business forecasting, predictive analytics, data-driven decision-making, and the practical applications of machine learning in the retail industry.
 
 Original repository: https://github.com/nipunabandara/BaForecast
 
