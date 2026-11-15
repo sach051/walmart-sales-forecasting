@@ -1,0 +1,49 @@
+[project]
+name = "walmart-sales-forecast"
+version = "1.0.0"
+description = "Walmart Sales Forecasting Application using Facebook Prophet"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "Nipuna Bandara", email = "nipuna@example.com"}
+]
+keywords = ["forecast", "prophet", "sales", "walmart", "time-series"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Business/Enterprises",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+]
+
+dependencies = [
+    "pandas>=1.5.0",
+    "numpy>=1.24.0",
+    "plotly>=5.0.0",
+    "scikit-learn>=1.2.0",
+    "prophet>=1.1",
+    "streamlit>=1.20.0",
+    "reportlab>=4.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=22.0.0",
+    "flake8>=4.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0.0",
+    "black>=22.0.0",
+    "flake8>=4.0.0",
+]
+
+[project.urls]
+Repository = "https://github.com/nipunabandara/BaForecast"
+Documentation = "https://github.com/nipunabandara/BaForecast/blob/main/README.md"
